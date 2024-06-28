@@ -13,8 +13,8 @@ This is a Streamlit web application that allows users to upload datasets, prepro
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/dataset-visualization-app.git
-    cd dataset-visualization-app
+    git clone https://github.com/kiransathyabanda/Dataset-Analyzer.git
+    cd Dataset-Analyzer
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
